@@ -4,7 +4,7 @@ def guess(num,guess_num):
     if(num==guess_num):
         print("Cool guessed number is right! ")
     else:
-        print("you guessed number is wrong! ")
+        print("You guessed the wrong number")
         print("If you want to continue press 1 or press 0")
         con=int(input())
         if(con==1):
