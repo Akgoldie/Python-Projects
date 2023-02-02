@@ -8,7 +8,7 @@ def guess(num,guess_num):
         print("If you want to continue press 1 or press 0")
         con=int(input())
         if(con==1):
-            guess_num = int(input("Enter the guessed number: "))
+            guess_num = int(input("Enter the guessed number again: "))
             guess(num, guess_num)
         else:
             print("Bye, Have a good day")
