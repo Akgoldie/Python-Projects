@@ -4,4 +4,4 @@
 
 [Project 2: Password generator (8-digits)](https://github.com/Akgoldie/Python-Projects/blob/main/Project_2.py)
 
-[Project 3: Number guessing game]()
+[Project 3: Number guessing game](https://github.com/Akgoldie/Python-Projects/blob/main/Project_3.py)
